@@ -113,7 +113,6 @@
 .banner-2-info {
     margin-left: 256px;
     margin-top: 126px;
-    /* margin-right: 692px; */
 }
 
 .banner-heading-2 {
@@ -149,6 +148,10 @@
     font-weight: 700;
     margin-left: 30px;
 }
+
+/* Banner 2 Ended */
+
+/* Address Section Started */
 
 .address-container {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
@@ -189,6 +192,10 @@
     font-size: 20px;
     font-weight: 700;
 }
+
+/* Address Section End */
+
+/* Coming Soon Section Started */
 
 .coming-soon-container {
     display: flex;
@@ -264,4 +271,16 @@
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 400;
+}
+
+/* Coming Soon Section Ended */
+
+/* Holiday Section 2 Started */
+
+.holiday-sale-2-content{
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
 }
