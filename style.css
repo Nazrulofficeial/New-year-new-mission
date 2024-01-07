@@ -317,7 +317,7 @@
 .holiday-50-container{
     display: flex;
     justify-content: center;
-    margin: auto;
+    /* margin: auto; */
     margin-left: 70px;
     margin-right: 140px;
 }
@@ -326,14 +326,23 @@
     background-image: url('resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
+    margin-left: 140px;
+    margin-right: 140px;
+    border-radius: 6px;
+    background-size: 1300px;
 }
 
 .women-img{
-    margin-left: -135px;
-    width: 100%;
+    margin-left: -170px;
+    margin-bottom: 225px;
+    
 }
 
 .discount-50{
     z-index: 1;
     margin-left: -10px;
+}
+
+.gift-box{
+    align-items: center;
 }
