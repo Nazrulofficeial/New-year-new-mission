@@ -347,6 +347,8 @@
     align-items: center;
 }
 
+/* Awesome Portfolio Section Start from here */
+
 .awesome-portfolio-container {
     margin: 0;
     margin-left: 140px;
@@ -379,4 +381,16 @@
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
+}
+
+.awesome-portfolio-images-container{
+    display: inline;
+}
+
+.awesome-portfolio-images{
+    margin-left: 140px;
+}
+
+.awesome-portfolio-images img{
+    padding: 7px;
 }
