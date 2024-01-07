@@ -314,7 +314,7 @@
 
 /* Holiday Banner Started */
 
-.holiday-50-container{
+.holiday-50-container {
     display: flex;
     justify-content: center;
     /* margin: auto; */
@@ -322,7 +322,7 @@
     margin-right: 140px;
 }
 
-.holiday-50-banner{
+.holiday-50-banner {
     background-image: url('resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
@@ -332,17 +332,51 @@
     background-size: 1300px;
 }
 
-.women-img{
+.women-img {
     margin-left: -170px;
     margin-bottom: 225px;
-    
+
 }
 
-.discount-50{
+.discount-50 {
     z-index: 1;
     margin-left: -10px;
 }
 
-.gift-box{
+.gift-box {
     align-items: center;
+}
+
+.awesome-portfolio-container {
+    margin: 0;
+    margin-left: 140px;
+    margin-top: 110px;
+}
+
+.awesome-portfolio-container h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin: auto;
+
+}
+
+.awesome-portfolio-container h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.awesome-portfolio-container p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
 }
