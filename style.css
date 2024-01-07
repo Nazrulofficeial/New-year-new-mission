@@ -311,3 +311,29 @@
     font-style: normal;
     font-weight: 500;
 }
+
+/* Holiday Banner Started */
+
+.holiday-50-container{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-left: 70px;
+    margin-right: 140px;
+}
+
+.holiday-50-banner{
+    background-image: url('resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.women-img{
+    margin-left: -135px;
+    width: 100%;
+}
+
+.discount-50{
+    z-index: 1;
+    margin-left: -10px;
+}
