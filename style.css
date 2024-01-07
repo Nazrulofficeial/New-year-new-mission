@@ -277,10 +277,37 @@
 
 /* Holiday Section 2 Started */
 
-.holiday-sale-2-content{
+.holiday-sale-2-content {
     width: 100%;
     margin: auto;
     align-items: center;
     text-align: center;
     margin-top: 100px;
+}
+
+.holiday-sale-2-content h3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holiday-sale-2-content h1 {
+    color: black;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 65px;
+    font-weight: 900;
+    margin-top: -12px;
+    margin-bottom: 13px;
+}
+
+.holiday-sale-2-content p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
 }
