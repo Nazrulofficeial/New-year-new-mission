@@ -312,6 +312,8 @@
     font-weight: 500;
 }
 
+/* Holiday Banner Ended */
+
 /* Holiday Banner Started */
 
 .holiday-50-container {
@@ -383,14 +385,79 @@
     line-height: 32px;
 }
 
-.awesome-portfolio-images-container{
+.awesome-portfolio-images-container {
     display: inline;
 }
 
-.awesome-portfolio-images{
+.awesome-portfolio-images {
     margin-left: 140px;
 }
 
-.awesome-portfolio-images img{
+.awesome-portfolio-images img {
     padding: 7px;
+}
+
+/* Awesome Portfolio Section End From here */
+
+/* Newsletter start from here */
+
+.news-letter-container {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-left: 140px;
+    text-align: center;
+    align-items: center;
+    margin-right: 70px;
+    padding: 20px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.news-letter-container h1 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.news-letter-container p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#mewsletter-email {
+    padding: 20px;
+    padding-right: 130px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border: none;
+}
+
+.news-letter-container button {
+    padding: 20px;
+    margin-left: -6px;
+    border-end-end-radius: 50px;
+    border-top-right-radius: 50px;
+    padding-right: 80px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 16px;
+    border: none;
+    align-items: center;
+    background-color: red;
 }
