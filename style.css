@@ -461,3 +461,74 @@
     align-items: center;
     background-color: red;
 }
+
+/* Newsletter section end from here */
+
+/* Footer section start from here */
+
+.footer-container {
+    background: #070211;
+    padding-left: 140px;
+    padding-right: 100px;
+    padding-top: 120px;
+}
+
+.first-footer-content {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.first-heading-one h2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.first-heading-two h2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-right: 30px;
+}
+
+.second-footer-content {
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.footer-social-icons {
+    padding-right: 10px;
+}
+
+hr {
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.third-footer-content {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 120px;
+}
+
+.third-heading-one h2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.third-heading-two h2 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
