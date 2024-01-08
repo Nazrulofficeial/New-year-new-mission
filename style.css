@@ -191,6 +191,13 @@
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     font-weight: 700;
+    border: 2px solid red;
+}
+
+.address-btn:hover{
+    background-color: rgb(211, 1, 211);
+    color: white;
+    border: 2px solid black;
 }
 
 /* Address Section End */
@@ -460,6 +467,11 @@
     border: none;
     align-items: center;
     background-color: red;
+    cursor: pointer;
+}
+
+.news-letter-container button:hover{
+    background-color: rgb(218, 5, 218);
 }
 
 /* Newsletter section end from here */
