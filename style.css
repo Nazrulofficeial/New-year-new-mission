@@ -4,9 +4,13 @@
         url('resources/Banner\ Image.png');
     background-position: center;
     align-items: center;
-    background-size: 1200px;
+    /* background-size: 1200px; */
     background-repeat: no-repeat;
     border-radius: 16px;
+    background-size: cover;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 50px;
 }
 
 .banner-container {
@@ -192,6 +196,7 @@
     font-size: 20px;
     font-weight: 700;
     border: 2px solid red;
+    cursor: pointer;
 }
 
 .address-btn:hover{
@@ -360,7 +365,7 @@
 
 .awesome-portfolio-container {
     margin: 0;
-    margin-left: 140px;
+    margin-left: 200px;
     margin-top: 110px;
 }
 
@@ -481,7 +486,7 @@
 .footer-container {
     background: #070211;
     padding-left: 140px;
-    padding-right: 100px;
+    padding-right: 90px;
     padding-top: 120px;
 }
 
@@ -499,7 +504,17 @@
     line-height: 40px;
 }
 
-.first-heading-two h2 {
+.footer-email {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-right: 30px;
+    /* margin-top: -25px; */
+}
+
+.footer-phone {
     color: #FFF;
     font-family: Inter;
     font-size: 24px;
